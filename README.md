@@ -1,11 +1,7 @@
-### Hi there 👋
 
-<!--
-**kapacheuski/kapacheuski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Yury 👋
 
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-
-[![Website](https://img.shields.io/website?label=uavlas.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://uavlas.com)
+[![Website](https://img.shields.io/website?label=uavlas.com&style=for-the-badge&url=https%3A%2F%2Fuavlas.com)](https://uavlas.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kapacheuski?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2kapacheuski&screen_name=kapacheuski)
 
 ## I'm a Husband, Father, Developer, and Researcher!!
@@ -48,7 +44,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Kapacheuski's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kapacheuski&show_icons=true&hide_border=true" />
+  <img align="left" alt="Kapacheuski's GitHub Stats" src="https://github-readme-stats.kapacheuski.vercel.app/api?username=kapacheuski&show_icons=true&hide_border=true" />
 
 </details>
 
